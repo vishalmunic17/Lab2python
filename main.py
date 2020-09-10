@@ -1,9 +1,9 @@
 # Author: Vishal Munic vqm5223@psu.edu
-# Collaborator:
-# Collaborator:
-# Collaborator:
-# Section: 
-# Breakout:
+# Collaborator: Bakhtiar Reza bmr5782@psu.edu 
+# Collaborator: Claire Kessel cmk6318@psu.edu 
+# Collaborator: Bakhtiar Reza bmr5782@psu.edu
+# Section: 4
+# Breakout: 10
 
 def getLetterGrade(grade):
   if (grade >= 93):
